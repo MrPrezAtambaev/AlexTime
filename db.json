@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "angel",
+      "price": "9999",
+      "url": "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__480.jpg",
+      "author": "Alex",
+      "id": 1
+    },
+    {
+      "title": "angel",
+      "price": "9999",
+      "url": "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__480.jpg",
+      "author": "Alex",
+      "id": 2
+    },
+    {
+      "title": "angel",
+      "price": "9999",
+      "url": "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__480.jpg",
+      "author": "Alex",
+      "id": 3
+    },
+    {
+      "title": "angel",
+      "price": "9999",
+      "url": "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928__480.jpg",
+      "author": "Alex",
+      "id": 4
+    }
+  ]
+}
